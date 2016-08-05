@@ -29,11 +29,11 @@ html, body {
 
 .nav li {
   color: #fff;
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Futura', 'century-gothic', sans-serif;
   font-weight: 600;
-  font-size: 12px;
+  font-size: 14px;
   display: inline;
-  padding-right: 20px;
+  padding-right: 30px;
 }
 
 .main {
@@ -44,7 +44,7 @@ html, body {
 
 .main h1 {
   color: #ffffff;
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Futura', 'century-gothic', sans-serif;
   font-weight: 600;
   font-size: 70px;
   margin-top: 0;
@@ -54,7 +54,7 @@ html, body {
 
 .btn-main {
   color: #ffffff;
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Futura', 'century-gothic', sans-serif;
   font-weight: 600;
   font-size: 18px;
   letter-spacing: 1.3px;
@@ -71,13 +71,13 @@ html, body {
 .supporting .col {
   float: left;
   width: 33%;
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Futura', 'century-gothic', sans-serif;
   text-align: center;
 }
 
 .supporting h2 {
   color: #ffffff;
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Futura', 'century-gothic', sans-serif;
   font-weight: 600;
   font-size: 18px;
   text-transform: uppercase;
@@ -98,7 +98,7 @@ html, body {
 }
 
 .footer p {
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Futura', 'century-gothic', sans-serif;
   text-transform: uppercase;
   font-size: 11px;
 }
